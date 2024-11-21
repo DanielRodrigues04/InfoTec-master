@@ -24,5 +24,5 @@
 ### 1. Clonar o Repositório
 Clone este repositório para sua máquina local:
 ```bash
-git clone https://github.com/seu-usuario/InfoTec.git
+[git clone https://github.com/seu-usuario/InfoTec.git](https://github.com/DanielRodrigues04/InfoTec-master.git)
 cd InfoTec
